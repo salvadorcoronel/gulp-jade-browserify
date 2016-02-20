@@ -1,7 +1,7 @@
 {
   "name": "gulp-jade-browserify",
   "version": "1.0.0",
-  "description": "Reto 3 backend for CoreUpgrade2016",
+  "description": "Reto 3 (Backend) for CoreUpgrade2016",
   "dependencies": {
     "jquery": "^2.2.0"
   },
